@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdlib.h>
 #include<string.h>
-// using namespace std;
+// using namespsace std;
 
 int main(){
     std::cout<<"Hello World"<< std::endl;
@@ -14,7 +14,6 @@ int main(){
     {
         std::cout<<a<<std::endl;
     }
-    
     
     return 0;
 }
