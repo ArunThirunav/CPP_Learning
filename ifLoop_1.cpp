@@ -3,7 +3,6 @@ This is to know the basic if-else, elif loop condition
 */
 
 #include <iostream>
-
 using namespace std;
 
 int main(){
