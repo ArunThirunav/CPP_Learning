@@ -124,6 +124,7 @@ int main(int argc, char const *argv[])
         cout << "Option 5 is Entered: Enter Val" << endl;
         cin >> pos >> val;
         a.ChangeValue(pos, val);
+        break;
 
     default:
         cout << "invalid" << endl;
